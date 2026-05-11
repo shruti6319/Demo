@@ -5,7 +5,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-        //hii
-        System.out.println("code from feature1");
+        System.out.println("code from conflict branch");
+        //System.out.println("code from main branch");
+
     }
 }
